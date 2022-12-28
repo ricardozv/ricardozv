@@ -1,6 +1,6 @@
 Hi, I'm @ricardozv
 - 👀 I'm interested in mobile development and pentesting
-- 🌱 I'm learning javascript, java, react native , serverless , aws, graphql, dynamoDB, firebase and mobile reverse engineering.
+- 🌱 I'm learning javascript, java, serverless, aws and mobile reverse engineering.
 - 💞️ I'm looking to collaborate with hybrid and native android mobile apps in development and security.
 - 📫 How to reach me: ricardosilvanet03@gmail.com
 
