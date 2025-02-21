@@ -1,5 +1,5 @@
 Hi, I'm @ricardozv
-- 👀 I'm interested in mobile development and pentesting
+- 👀 I'm interested in mobile development, pentesting and AI.
 - 🌱 I'm learning javascript, python, serverless, aws and mobile reverse engineering.
 - 💞️ I'm looking to collaborate with hybrid and native android mobile apps in development and security.
 - 📫 How to reach me: ricardosilvanet03@gmail.com
