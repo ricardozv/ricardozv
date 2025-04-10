@@ -1,10 +1,10 @@
-Hi, I'm @ricardozv
-- 👀 I'm interested in mobile development, pentesting and AI.
-- 🌱 I'm learning javascript, python, serverless, aws and mobile reverse engineering.
-- 💞️ I'm looking to collaborate with hybrid and native android mobile apps in development and security.
-- 📫 How to reach me: ricardosilvanet03@gmail.com
 
-<!---
-ricardozv/ricardozv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hey, I'm @ricardozv
+
+🚀 Indie hacker building things with **React Native, AWS & Serverless**.  
+🔐 Passionate about **mobile app security**, **reverse engineering** and **ethical hacking**.  
+🤖 Exploring **AI for automation**, business intelligence and creative problem solving.  
+📱 Focused on crafting fast, secure, and scalable **hybrid & native Android apps**.  
+🧠 Constantly learning: `JavaScript`, `Python`, `mobile pentesting`, `cloud`, and `AI engineering`.  
+💡 Let's connect if you're building apps that mix **tech + creativity + impact**.  
+📬 Reach me at: **ricardosilvanet03@gmail.com**
