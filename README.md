@@ -1,10 +1,15 @@
-
 ### 👋 Hey, I'm @ricardozv
 
-🚀 Indie hacker building things with **React Native, AWS & Serverless**.  
-🔐 Passionate about **mobile app security**, **reverse engineering** and **ethical hacking**.  
-🤖 Exploring **AI for automation**, business intelligence and creative problem solving.  
-📱 Focused on crafting fast, secure, and scalable **hybrid & native Android apps**.  
-🧠 Constantly learning: `JavaScript`,`TypeScript`, `Python`, `mobile pentesting`, `cloud`, and `AI engineering`.  
-💡 Let's connect if you're building apps that mix **tech + creativity + impact**.  
-📬 Reach me at: **ricardosilvanet03@gmail.com**
+🚀 Mobile developer focused on **hybrid and native Android apps**, working with **React Native** and **AWS (serverless architecture)**.  
+🔐 Passionate about **mobile security**, **reverse engineering**, and data protection best practices.  
+🤖 Exploring how **AI** can power automation and deliver strategic insights.  
+📱 Dedicated to building **scalable, secure, and user-friendly mobile solutions**.  
+📊 Strong interest in **digital products**, **data analysis**, and **emerging technologies**.  
+🌱 Continuously learning `JavaScript`, `Python`, `cloud computing`, `mobile pentesting`, and applied AI.  
+🤝 Open to collaborations and opportunities in **mobile development** and **app security**.  
+📫 Reach me at: **ricardosilvanet03@gmail.com**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-silva-b11ba215a/)  
+📱 [Budd – Marketplace de bares e eventos](https://buddapp.com)
+
+
