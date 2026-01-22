@@ -10,6 +10,6 @@
 📬 Reach me at: **buddaplication@gmail.com**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-silva-b11ba215a/)  
-📱 [Budd – Marketplace de bares e eventos](https://buddapp.com)
+📱 [Budd](https://buddapp.com)
 
 
