@@ -7,7 +7,7 @@
 📱 Focused on crafting fast, secure, and scalable **hybrid & native Android apps**.  
 🧠 Constantly learning: `JavaScript`,`typeScript`, `Python`, `mobile pentesting`, `cloud`, and `AI engineering`.  
 💡 Whether you're building a product or hiring someone to do it — I'm ready to help turn ideas into powerful, secure mobile experiences.
-📬 Reach me at: **buddaplication@gmail.com**
+📬 Reach me at: **ricardo@budd.com.br**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-silva-b11ba215a/)  
 📱 [Budd](https://buddapp.com)
