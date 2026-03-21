@@ -10,6 +10,6 @@
 📬 Reach me at: **ricardo@budd.com.br**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-silva-b11ba215a/)  
-📱 [Budd](https://buddapp.com)
+📱 [Budd](https://budd.com.br)
 
 
