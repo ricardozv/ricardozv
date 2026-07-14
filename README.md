@@ -1,5 +1,5 @@
 
-### 👋 Hey, I'm @ricardozv
+### 👋 Hey, I'm Ricardo Silva!
 
 🚀 Indie developer building things with **React Native, AWS & Serverless**.  
 🔐 Passionate about **mobile app security**, **reverse engineering** and **ethical hacking**.  
