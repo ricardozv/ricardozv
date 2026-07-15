@@ -1,7 +1,7 @@
 
 ### 👋 Hey, I'm Ricardo Silva!
 
-🚀 Indie developer building things with **React Native, AWS & Serverless**.  
+🚀 Indie developer building things with **React Native & AWS - Serverless**.  
 🔐 Passionate about **mobile app security**, **reverse engineering** and **ethical hacking**.  
 🤖 Exploring **AI for automation**, business intelligence and creative problem solving.  
 📱 Focused on crafting fast, secure, and scalable **hybrid & native Android apps**.  
